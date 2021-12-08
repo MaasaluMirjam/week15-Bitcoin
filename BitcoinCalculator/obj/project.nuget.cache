@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9HiRd2pZtpFDYsi1IjhAFA9+atRnoVTK0kE7QcAWdgqm4xVDs3zq7GyzKaEDAWd+hzBwytzUYdvTgALmqtHkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\LogitPe21\\BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
